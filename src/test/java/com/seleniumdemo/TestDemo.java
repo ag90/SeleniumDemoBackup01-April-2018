@@ -9,13 +9,13 @@ public class TestDemo {
 	@Test
 	public void m()
 	{
-		assertEquals("Avi", "Avi");
+		assertEquals("Avi1", "Avi");
 	}
 	
 	@Test
 	public void m1()
 	{
-		System.out.println("Hello");
+		System.out.println("Welcome HCL-Lites");
 	}
 
 }
